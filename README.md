@@ -13,7 +13,7 @@ I am a professional Web Application Developer with experience in React Js and Dj
 
 Database is a must thing for software development, I have mostly worked with PostgreSQL along with that also used MySQL, SQLite in several projects, I have also used Redis In Memory Database for server side caching and creating channel layer for django channel applications.<br>
 
-
+Not only with web development but I also have worked with IoT Solution development using ESP-32 micro controller board and MycroPython language with the integration of Image Processing in it using firebase realtime database.<br>
 
 - 🌍 I'm based in Kolkata
 - ✉️ You can contact me at [subhradeeppal30@gmail.com](mailto:subhradeeppal30@gmail.com)
