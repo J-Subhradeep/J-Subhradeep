@@ -4,9 +4,9 @@
 
 ## Full Stack Developer (Django, React, IoT, Image Processing, Java, J2EE)
 
-🏆 Smart India Hackathon 2022 Software Edition(Senior) Winner <br>
-🌐 Experienced in Full Stack Web Development with React Js, Django, Java etc. <br>
-👨‍💻 200+ Problems Solved on LeetCode Platform.<br>
+- 🏆 Smart India Hackathon 2022 Software Edition(Senior) Winner <br>
+- 🌐 Experienced in Full Stack Web Development with React Js, Django, Java etc. <br>
+- 👨‍💻 200+ Problems Solved on LeetCode Platform.<br>
 
 - 🌍 I'm based in Kolkata
 - ✉️ You can contact me at [subhradeeppal30@gmail.com](mailto:subhradeeppal30@gmail.com)
