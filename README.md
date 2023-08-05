@@ -9,7 +9,7 @@
 - 👨‍💻 200+ Problems Solved on LeetCode Platform.<br>
 
 
-I am a Professional Web Application Developer with experience in React Js and Django, I am very much enthusiast in this field, till now I have explored many frameworks like PHP, Java EE, Java Swing, Django Rest Framework, Django Channels, React Js, Redux, Vite etc.<br>
+I am a professional Web Application Developer with experience in React Js and Django, I am very much enthusiast in this field, till now I have explored many frameworks like PHP, Java EE, Java Swing, Django Rest Framework, Django Channels, React Js, Redux, Vite etc.<br>
 
 Database is a must thing for software development, I have mostly worked with PostgreSQL along with that also used MySQL, SQLite in several projects, I have also used Redis In Memory Database for server side caching and creating channel layer for django channel applications.<br>
 
