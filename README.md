@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhradeep Pal
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Subhradeep Pal, Welcome to my profile
 
-## Full Stack Developer (Django, React, IoT, Image Processing, Java, J2EE)
+## Full Stack Developer (Django, React, IoT, Image Processing, Java, J2EE, PostgreSQL, Redis)
 
 - 🏆 Smart India Hackathon 2022 Software Edition(Senior) Winner <br>
 - 🌐 Experienced in Full Stack Web Development with React Js, Django, Java etc. <br>
