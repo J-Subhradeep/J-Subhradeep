@@ -18,7 +18,6 @@ Not only with web development but I also have worked with IoT Solution developme
 
 - 🌍 I'm based in Kolkata
 - ✉️ You can contact me at [subhradeeppal30@gmail.com](mailto:subhradeeppal30@gmail.com)
-- 🚀 I'm currently working on [TradingSage(SKID Fintech Private Limited)](http://tradingsage.in/)
 - 🧠 I'm learning Java Full Stack Developemt
 - ⚡ I'm Secretly Spiderman🕷... but I don't tell anyone
 
