@@ -6,6 +6,7 @@
 
 - 🏆 Smart India Hackathon 2022 Software Edition(Senior) Winner <br>
 - 🏆 Rajasthan Police Hackahton 1.0, 2024 Winner <br>
+- ⚡ B.Tech in Electronics & Communication Engineering(2024)<br>
 - 🌐 Experienced in Full Stack Web Development with React Js, Python, Java etc. <br>
 - 👨‍💻 200+ Problems Solved on LeetCode Platform.<br>
 
