@@ -11,11 +11,7 @@
 - 👨‍💻 200+ Problems Solved on LeetCode Platform.<br>
 
 
-I am a professional Web Application Developer with 2+ years of experience in React Js and Django, I am very much enthusiast in this field, till now I have explored many frameworks like PHP, Java EE, Java Swing, Spring, Spring Boot, Django Rest Framework, Django Channels, React Js, Redux, Vite etc.<br>
-
-Database is a must thing for software development, I have mostly worked with PostgreSQL along with that also used MySQL, SQLite in several projects, I have also used Redis In Memory Database for server side caching and creating channel layer for django channel applications.<br>
-
-Not only with web development but I also have worked with IoT Solution development using ESP-32 micro controller board and MycroPython language with the integration of Image Processing in it using firebase realtime database.<br>
+Hi, I have completed my B.Tech from Meghnad Saha Institute of Technology in the field of Electronics and Communication Engineering. I am a Full Stack Java Developer with a focus on cloud technologies, specializing in Spring Boot and Microservices. I have a strong background in containerization using Docker and excel in creating scalable, cloud-based applications. I am also an experienced Hackathon Strategist, having won prestigious competitions such as the Rajasthan Police Hackathon 2024 and the Smart India Hackathon 2022. These achievements reflect my problem-solving skills, creativity, and ability to deliver under pressure in competitive environments.<br>
 
 
 ## 🌐 Socials:
